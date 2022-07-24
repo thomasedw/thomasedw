@@ -5,7 +5,7 @@
 </div>
 </h1>
 
-A full-stack software engineer with a focus on cloud solutions and modern browser application development.
+I'm a full-stack software engineer with a focus on cloud solutions and modern browser application development.
 
 > Pronouns: he/him/his
 
