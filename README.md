@@ -21,14 +21,14 @@ I'm a full-stack software engineer with a focus on cloud solutions and modern br
 
 <h3>Frameworks</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=flat&logo=react&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat&logo=react&logoColor=61dbfb" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat&logo=svelte&logoColor=white" />
-  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2b2d3a?style=flat&logo=electron&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-2b2d3a?style=flat&logo=electron&logoColor=9feaf9" />
 </p>
 
 <h3>Testing</h3>
 <p>
-  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-242526?style=flat&logo=playwright&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-242526?style=flat&logo=playwright&logoColor=2ead33" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-15c213?style=flat&logo=jest&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-ffffff?style=flat&logo=cypress&logoColor=black" />
 </p>
