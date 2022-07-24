@@ -41,6 +41,21 @@ A full-stack software engineer with a focus on cloud solutions and modern browse
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-5f42e8?style=flat&logo=terraform&logoColor=white">
 </p>
 
+<h2>Certifications</h2>
+
+I've got two AWS certs so far, these are:
+
+<p>
+  <a href="https://www.credly.com/badges/f3e90b97-582a-4f87-a8f4-056aed997d2a/public_url">
+    <img alt="Cloud practitioner badge" src="./imgs/cloud_practitioner_badge.png" width="125" />
+  </a>
+  
+  <a href="https://www.credly.com/badges/b24439b2-ee32-4d6d-bb60-4175d2575e58/public_url">
+    <img alt="Solutions architect associate badge" src="./imgs/solutions_architect_associate_badge.png" width="125" />
+  </a>
+</p>
+
+
 <h2>Current project</h2>
 
 Outside of my main day job, I'm diving into a project that is exploring how browsers render content efficiently using compositors for a specific market. 
