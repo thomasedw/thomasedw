@@ -1,12 +1,13 @@
 <h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H8FP5CniGPbB4zFnRR/giphy.gif" width="200" />
-  <p>Hello world 👋</p>
+  <p>Hello world</p>
 </div>
 </h1>
 
-<p>I'm Thomas, a full-stack software engineer with a focus on cloud solutions and modern browser application development.</p>
-<i>Pronouns: he/him/his</i>
+A full-stack software engineer with a focus on cloud solutions and modern browser application development.
+
+> Pronouns: he/him/his
 
 <h2>Technical summary</h2>
 <h3>Languages & </h3>
