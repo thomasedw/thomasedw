@@ -10,7 +10,7 @@ A full-stack software engineer with a focus on cloud solutions and modern browse
 > Pronouns: he/him/his
 
 <h2>Technical summary</h2>
-<h3>Languages & </h3>
+<h3>Languages</h3>
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-007acd?style=flat&logo=typescript&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat&logo=javascript&logoColor=323330" />
