@@ -16,7 +16,7 @@ I'm a full-stack software engineer with a focus on cloud solutions and modern br
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f0db4f?style=flat&logo=javascript&logoColor=323330" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00aed8?style=flat&logo=go&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00589c?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776aa?style=flat&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776aa?style=flat&logo=python&logoColor=ffdc4d" />
 </p>
 
 <h3>Frameworks</h3>
